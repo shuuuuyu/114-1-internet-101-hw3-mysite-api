@@ -207,3 +207,4 @@ curl -X POST https://your-api.railway.app/tarot \
 ---
 
 ⭐ 如果這個專案對你有幫助，歡迎給個星星！
+[簡短的介紹影片](https://youtu.be/urMNOVU1C9k)
