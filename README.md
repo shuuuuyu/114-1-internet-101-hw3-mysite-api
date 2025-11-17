@@ -47,7 +47,7 @@
 
 ### 部署
 - **前端**: Vercel
-- **後端**: Railway / Render
+- **後端**: Render
 
 ---
 
@@ -202,7 +202,6 @@ curl -X POST https://your-api.railway.app/tarot \
 - [Google Gemini API](https://ai.google.dev/)
 - [Groq](https://groq.com/)
 - [Vercel](https://vercel.com/)
-- [Railway](https://railway.app/)
 
 ---
 
