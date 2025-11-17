@@ -70,8 +70,8 @@ function TarotCard() {
       
       console.log('🔮 呼叫塔羅 API...')
       console.log('📤 傳送資料:', { card, orientation })
-      
-      const response = await fetch('https://tarot-api-production-fcd9.up.railway.app/tarot', {
+
+      const response = await fetch('https://tarot-api-2yzb.onrender.com/tarot', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
